@@ -1,0 +1,28 @@
+name: willie
+favicon: null
+layout_spectrum: 0.3548494928982109
+typography_spectrum: 0.8546422838699073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06780666369013488
+  lightness: 0.5753677093889564
+  saturation: 0.8164167383220047
+  rhythmicContrast: 0.9629711729940027
+purpose: []
